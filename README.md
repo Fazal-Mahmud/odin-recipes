@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is to show up all learnings regrading HTML in one place. Although, the web site won't be a fancy one, but it will definitely enhance HTML learning. The tasks is to build a simple Recipe web site.  
